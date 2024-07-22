@@ -189,7 +189,8 @@ nav h6 span{
    overflow: hidden;
    padding: 10px 0px 10px 0px;
 }
-
+#idgame{
+  overflow: hidden;
 .cont-home{
     color: #a4a4a4;
     text-align: justify;

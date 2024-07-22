@@ -185,6 +185,11 @@ nav h6 span{
   -webkit-text-fill-color: transparent;
 }
 
+.my-game{
+   overflow: hidden;
+   padding: 10px 0px 10px 0px;
+}
+
 .cont-home{
     color: #a4a4a4;
     text-align: justify;
@@ -352,11 +357,6 @@ nav h6 span{
   font-size: 24px;
   color: #ffffff;
   margin-bottom: 20px;
-}
-
-.my-game{
-   overflow: hidden;
-   padding: 10px 0px 10px 0px;
 }
 
 .contact-container {
